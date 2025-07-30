@@ -13,4 +13,4 @@
 ```bash
 pip install streamlit pandas
 
-<img width="1897" height="931" alt="image" src="https://github.com/user-attachments/assets/0be04a4a-8b6f-4d56-8bfd-40dc8fe19255" />
+#snapshot
